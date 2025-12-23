@@ -81,8 +81,8 @@ Data Analyst | SQL | Data Engineering Enthusiast
 
 ## 📬 Contact Information
 
-📧 **Email:** your.email@example.com  
-📱 **Mobile:** +92-3XX-XXXXXXX  
+📧 **Email:** ahmermehmood7007@gmail.com 
+📱 **Mobile:** +92-333-440-8596
 
 💼 **LinkedIn:**  
 https://www.linkedin.com/in/ahmermehmood7007/
