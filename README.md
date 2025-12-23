@@ -69,7 +69,6 @@ sql-sales-analysis-project/
 ## ▶️ How to Use This Repository
 
 ### 1️⃣ Clone the Repository
-```bash
 git clone https://github.com/ahmermehmood7007/sql-sales-analysis-project.git
 
 ---
