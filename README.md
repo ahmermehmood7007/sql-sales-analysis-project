@@ -71,3 +71,57 @@ sql-sales-analysis-project/
 ```bash
 git clone https://github.com/ahmermehmood7007/sql-sales-analysis-project.git
 
+---
+
+## 👤 Author
+**Ahmer Mehmood**  
+Data Analyst | SQL | Data Engineering Enthusiast  
+
+---
+
+## 📬 Contact Information
+
+📧 **Email:** your.email@example.com  
+📱 **Mobile:** +92-3XX-XXXXXXX  
+
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/ahmermehmood7007/
+
+🧑‍💻 **GitHub:**  
+https://github.com/ahmermehmood7007  
+
+📊 **Kaggle:**  
+https://www.kaggle.com/your-kaggle-username  
+
+---
+
+## 🔮 Future Enhancements
+- Add realistic sample sales dataset
+- Include ER diagram & database schema
+- Introduce window functions for advanced analysis
+- Add performance optimization queries
+- Build dashboards using Power BI / Tableau
+
+---
+
+## 📌 Key Takeaways
+- Hands-on experience with real-world SQL queries
+- Strong understanding of joins and aggregations
+- Business-focused sales insights using SQL
+- Interview-ready SQL problem-solving skills
+
+---
+
+## ⭐ Contributions & Support
+Contributions, suggestions, and improvements are welcome.
+
+If this project helped you:
+- ⭐ Star the repository  
+- 🍴 Fork it  
+- 🔁 Share it with others  
+
+---
+
+## 📄 License
+This project is open-source and available for learning and educational purposes.
+
