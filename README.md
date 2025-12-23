@@ -60,3 +60,19 @@ cd sql-sales-analysis-project
 git add README.md
 git commit -m "Add complete README.md with project structure and details"
 git push
+
+## 👨‍💻 Author & Contact
+
+**Ahmer Mehmood**  
+Aspiring Data Analyst | SQL Enthusiast  
+
+📧 Email: ahmermehmood7007@gmail.com  
+🔗 GitHub: https://github.com/ahmermehmood7007  
+💼 LinkedIn: https://www.linkedin.com/in/ahmer-mehmood  
+📊 Kaggle: https://www.kaggle.com/ahmermehmood7007  
+
+---
+
+## 📝 Notes
+This project is part of my **SQL learning journey**, focusing on practical sales analysis scenarios.  
+Feedback, suggestions, and collaboration opportunities are always welcome.
