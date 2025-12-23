@@ -29,9 +29,9 @@ sql-sales-analysis-project/
 │   └── SQL_Fundamentals_to_Advanced_Sales_Analysis_Project.pdf
 │
 └── README.md
+```text
+---
 
----
----
 ## 🧠 Key Concepts Covered
 - SQL Fundamentals (`SELECT`, `WHERE`, `ORDER BY`, `LIMIT`)
 - Aggregate Functions (`SUM`, `COUNT`, `AVG`, `MAX`, `MIN`)
