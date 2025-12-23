@@ -23,24 +23,4 @@ sql-sales-analysis-project/
 │
 └── README.md
 
-➡️ This keeps **alignment + readability** exactly like developers expect.
 
----
-
-### 🔧 FIX 2: “How to Use” (make link clickable)
-
-```markdown
-## ▶️ How to Use
-
-1. Clone the repository:
-
-👉 https://github.com/ahmermehmood7007/sql-sales-analysis-project
-
-```bash
-git clone https://github.com/ahmermehmood7007/sql-sales-analysis-project.git
-
-
-## ▶️ How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/ahmermehmood7007/sql-sales-analysis-project.git
