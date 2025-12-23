@@ -30,6 +30,29 @@ sql-sales-analysis-project/
 │
 └── README.md
 
+🧠 Key Concepts Covered
+
+SQL Fundamentals (SELECT, WHERE, ORDER BY, LIMIT)
+
+Aggregate Functions (SUM, COUNT, AVG, MAX, MIN)
+
+Data Grouping (GROUP BY, HAVING)
+
+Table Relationships:
+
+INNER JOIN
+
+LEFT JOIN
+
+RIGHT JOIN
+
+FULL OUTER JOIN
+
+Multi-table & Nested Queries
+
+Logical Filtering (AND, OR, NOT)
+
+Sales Performance & Business Reporting
 ## 🧠 Key Concepts Covered
 - SQL Fundamentals (`SELECT`, `WHERE`, `ORDER BY`, `LIMIT`)
 - Aggregate Functions (`SUM`, `COUNT`, `AVG`, `MAX`, `MIN`)
