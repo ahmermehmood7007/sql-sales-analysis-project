@@ -22,4 +22,21 @@ sql-sales-analysis-project/
 │   └── SQL_Fundamentals_to_Advanced_Sales_Analysis_Project.pdf
 │
 └── README.md
-git clone https://github.com/ahmermehmood7007/sql-sales-analysis-project.git
+
+---
+
+## 🎯 Key Learning Areas
+- SQL fundamentals: `SELECT`, `WHERE`, `ORDER BY`, `LIMIT`
+- Aggregate functions: `SUM`, `COUNT`, `AVG`, `MAX`, `MIN`
+- `GROUP BY` and `HAVING`
+- Joins: `INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN`, `FULL OUTER JOIN`
+- Multi-table and nested queries
+- Data filtering using `AND`, `OR`, `NOT`
+- Real-world sales analysis and reporting use cases
+
+---
+
+## ▶️ How to Use
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/ahmermehmood7007/sql-sales-analysis-project.git
