@@ -22,7 +22,21 @@ sql-sales-analysis-project/
 │   └── SQL_Fundamentals_to_Advanced_Sales_Analysis_Project.pdf
 │
 └── README.md
-```text
+
+
+☝️ **Notice**:
+- Code block opens before `sql-sales-analysis-project/`
+- Code block **CLOSES immediately after README.md**
+- NOTHING else inside it
+
+---
+
+### 🔧 STEP 2: CONTENT AFTER STRUCTURE (NORMAL MARKDOWN)
+
+Now **AFTER** the closing ```  
+paste this (NOT inside any block):
+
+```markdown
 ---
 
 ## 🎯 Key Learning Areas
@@ -49,4 +63,3 @@ sql-sales-analysis-project/
 
 ```bash
 git clone https://github.com/ahmermehmood7007/sql-sales-analysis-project.git
-
