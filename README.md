@@ -6,6 +6,7 @@ This project focuses on real-world sales scenarios involving customers, orders, 
 
 ---
 
+ 
 ## 📌 Project Highlights
 - Practical sales data analysis use cases
 - Structured SQL practice from basic to advanced
